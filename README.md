@@ -72,4 +72,6 @@ Each visual was placed with purpose, making sure the dashboard flows logically f
 🖼️ Dashboard Preview
 
 Here’s a sneak peek of what the finished dashboard looks like:
-https://github.com/Abitseb143/Powerbi_dashboard/blob/main/data_professional_survey.jpg
+
+![Dashboard Screenshot](https://github.com/Abitseb143/Powerbi_dashboard/blob/main/data_professional_survey.jpg)
+
